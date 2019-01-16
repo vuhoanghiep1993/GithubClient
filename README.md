@@ -1,4 +1,9 @@
 # GithubClient
+Dagger 2  + RxJava + Retrofit
+
+
+
+
 Example of Github API client implemented on top of Dagger 2 DI framework. 
 
 This code was created as an example for Dependency Injection with Dagger 2 series on my dev-blog:
